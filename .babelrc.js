@@ -20,9 +20,6 @@ module.exports = {
 			'babel-plugin-module-resolver',
 			{
 				extensions: ['.js', '.web.js', '.native.js'],
-				alias: {
-					Views: path.resolve(__dirname, 'src', 'views'),
-				},
 			},
 		],
 		'babel-plugin-styled-components',

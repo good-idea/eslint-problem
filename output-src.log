@@ -607,3 +607,83 @@ Cannot find module '/Users/joseph/Sites/my-project/eslint-problem/src/webpack.co
 2018-06-02T20:13:46.833Z eslint:config Using config from cache
 2018-06-02T20:13:46.833Z eslint:linter Linting code for /Users/joseph/Sites/my-project/eslint-problem/src/views/Home.js (pass 1)
 Cannot find module '/Users/joseph/Sites/my-project/eslint-problem/src/webpack.config.js'
+2018-06-02T20:55:27.484Z eslint:cli Running on files
+2018-06-02T20:55:27.513Z eslint:glob-util Creating list of files to process.
+2018-06-02T20:55:27.516Z eslint:ignored-paths Looking for ignore file in /Users/joseph/Sites/my-project/eslint-problem
+2018-06-02T20:55:27.516Z eslint:ignored-paths Loaded ignore file /Users/joseph/Sites/my-project/eslint-problem/.eslintignore
+2018-06-02T20:55:27.516Z eslint:ignored-paths Adding /Users/joseph/Sites/my-project/eslint-problem/.eslintignore
+2018-06-02T20:55:27.534Z eslint:cli-engine Processing /Users/joseph/Sites/my-project/eslint-problem/src/config.js
+2018-06-02T20:55:27.535Z eslint:cli-engine Linting /Users/joseph/Sites/my-project/eslint-problem/src/config.js
+2018-06-02T20:55:27.536Z eslint:config Constructing config file hierarchy for /Users/joseph/Sites/my-project/eslint-problem/src
+2018-06-02T20:55:27.536Z eslint:config Using .eslintrc and package.json files
+2018-06-02T20:55:27.543Z eslint:config Loading /Users/joseph/Sites/my-project/eslint-problem/src/package.json
+2018-06-02T20:55:27.545Z eslint:config-file Loading package.json config file: /Users/joseph/Sites/my-project/eslint-problem/src/package.json
+2018-06-02T20:55:27.545Z eslint:config-file Loading JSON config file: /Users/joseph/Sites/my-project/eslint-problem/src/package.json
+2018-06-02T20:55:27.547Z eslint:config Loading /Users/joseph/Sites/my-project/eslint-problem/.eslintrc
+2018-06-02T20:55:27.548Z eslint:config-file Loading config file: /Users/joseph/Sites/my-project/eslint-problem/.eslintrc
+2018-06-02T20:55:27.967Z eslint:config-file Loading plugin:flowtype/recommended
+2018-06-02T20:55:27.967Z eslint:config-file Attempting to resolve eslint-plugin-flowtype
+2018-06-02T20:55:27.968Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-plugin-flowtype/dist/index.js
+2018-06-02T20:55:28.026Z eslint:config-file Loading prettier
+2018-06-02T20:55:28.026Z eslint:config-file Attempting to resolve eslint-config-prettier
+2018-06-02T20:55:28.027Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-prettier/index.js
+2018-06-02T20:55:28.029Z eslint:config-file Loading airbnb
+2018-06-02T20:55:28.030Z eslint:config-file Attempting to resolve eslint-config-airbnb
+2018-06-02T20:55:28.030Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb/index.js
+2018-06-02T20:55:28.033Z eslint:config-file Loading /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb/rules/react-a11y.js
+2018-06-02T20:55:28.033Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb/rules/react-a11y.js
+2018-06-02T20:55:28.474Z eslint:plugins Loaded plugin jsx-a11y (eslint-plugin-jsx-a11y@6.0.3) (from /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-plugin-jsx-a11y/lib/index.js)
+2018-06-02T20:55:28.606Z eslint:plugins Loaded plugin react (eslint-plugin-react@7.7.0) (from /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-plugin-react/index.js)
+2018-06-02T20:55:28.633Z eslint:config-file Loading /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb/rules/react.js
+2018-06-02T20:55:28.634Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb/rules/react.js
+2018-06-02T20:55:28.688Z eslint:config-file Loading /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/strict.js
+2018-06-02T20:55:28.688Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/strict.js
+2018-06-02T20:55:28.692Z eslint:config-file Loading /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/index.js
+2018-06-02T20:55:28.692Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/index.js
+2018-06-02T20:55:28.696Z eslint:config-file Loading /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/imports.js
+2018-06-02T20:55:28.696Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/imports.js
+2018-06-02T20:55:29.000Z eslint:plugins Loaded plugin import (eslint-plugin-import@2.12.0) (from /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-plugin-import/lib/index.js)
+2018-06-02T20:55:29.009Z eslint:config-file Loading /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/es6.js
+2018-06-02T20:55:29.009Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/es6.js
+2018-06-02T20:55:29.032Z eslint:config-file Loading /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/variables.js
+2018-06-02T20:55:29.032Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/variables.js
+2018-06-02T20:55:29.055Z eslint:config-file Loading /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/style.js
+2018-06-02T20:55:29.055Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/style.js
+2018-06-02T20:55:29.188Z eslint:config-file Loading /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/node.js
+2018-06-02T20:55:29.189Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/node.js
+2018-06-02T20:55:29.191Z eslint:config-file Loading /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/errors.js
+2018-06-02T20:55:29.191Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/errors.js
+2018-06-02T20:55:29.198Z eslint:config-file Loading /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/best-practices.js
+2018-06-02T20:55:29.198Z eslint:config-file Loading JS config file: /Users/joseph/Sites/my-project/eslint-problem/node_modules/eslint-config-airbnb-base/rules/best-practices.js
+2018-06-02T20:55:29.244Z eslint:config Using /Users/joseph/Sites/my-project/eslint-problem/.eslintrc
+2018-06-02T20:55:29.248Z eslint:config-ops Using config from partial cache
+2018-06-02T20:55:29.251Z eslint:config-ops Apply environment settings to config
+2018-06-02T20:55:29.251Z eslint:config-ops Creating config for environment node
+2018-06-02T20:55:29.251Z eslint:config-ops Creating config for environment es6
+2018-06-02T20:55:29.252Z eslint:config-ops Creating config for environment browser
+2018-06-02T20:55:29.254Z eslint:linter Linting code for /Users/joseph/Sites/my-project/eslint-problem/src/config.js (pass 1)
+2018-06-02T20:55:29.700Z eslint:linter Generating fixed text for /Users/joseph/Sites/my-project/eslint-problem/src/config.js (pass 1)
+2018-06-02T20:55:29.700Z eslint:text-fixer Applying fixes
+2018-06-02T20:55:29.700Z eslint:text-fixer shouldFix parameter was false, not attempting fixes
+2018-06-02T20:55:29.700Z eslint:cli-engine Processing /Users/joseph/Sites/my-project/eslint-problem/src/index.js
+2018-06-02T20:55:29.702Z eslint:cli-engine Linting /Users/joseph/Sites/my-project/eslint-problem/src/index.js
+2018-06-02T20:55:29.702Z eslint:config Constructing config file hierarchy for /Users/joseph/Sites/my-project/eslint-problem/src
+2018-06-02T20:55:29.702Z eslint:config Using .eslintrc and package.json files
+2018-06-02T20:55:29.703Z eslint:config Loading /Users/joseph/Sites/my-project/eslint-problem/src/package.json
+2018-06-02T20:55:29.703Z eslint:config-file Loading package.json config file: /Users/joseph/Sites/my-project/eslint-problem/src/package.json
+2018-06-02T20:55:29.704Z eslint:config-file Loading JSON config file: /Users/joseph/Sites/my-project/eslint-problem/src/package.json
+2018-06-02T20:55:29.704Z eslint:config Using config from cache
+2018-06-02T20:55:29.704Z eslint:linter Linting code for /Users/joseph/Sites/my-project/eslint-problem/src/index.js (pass 1)
+2018-06-02T20:55:29.928Z eslint:linter Generating fixed text for /Users/joseph/Sites/my-project/eslint-problem/src/index.js (pass 1)
+2018-06-02T20:55:29.928Z eslint:text-fixer Applying fixes
+2018-06-02T20:55:29.928Z eslint:text-fixer shouldFix parameter was false, not attempting fixes
+2018-06-02T20:55:29.928Z eslint:cli-engine Processing /Users/joseph/Sites/my-project/eslint-problem/src/views/Home.js
+2018-06-02T20:55:29.929Z eslint:cli-engine Linting /Users/joseph/Sites/my-project/eslint-problem/src/views/Home.js
+2018-06-02T20:55:29.929Z eslint:config Constructing config file hierarchy for /Users/joseph/Sites/my-project/eslint-problem/src/views
+2018-06-02T20:55:29.929Z eslint:config Using .eslintrc and package.json files
+2018-06-02T20:55:29.930Z eslint:config Loading /Users/joseph/Sites/my-project/eslint-problem/src/package.json
+2018-06-02T20:55:29.930Z eslint:config-file Loading package.json config file: /Users/joseph/Sites/my-project/eslint-problem/src/package.json
+2018-06-02T20:55:29.930Z eslint:config-file Loading JSON config file: /Users/joseph/Sites/my-project/eslint-problem/src/package.json
+2018-06-02T20:55:29.930Z eslint:config Using config from cache
+2018-06-02T20:55:29.930Z eslint:linter Linting code for /Users/joseph/Sites/my-project/eslint-problem/src/views/Home.js (pass 1)
+Cannot find module '/Users/joseph/Sites/my-project/eslint-problem/src/webpack.config.js'
